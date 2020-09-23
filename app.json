@@ -4,9 +4,9 @@
     "slug": "pokedex",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/pokeicon.jpg",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/pokeicon.jpg",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
